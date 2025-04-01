@@ -6,7 +6,7 @@ A simple macOS menu bar app that displays your Safari Reading List items and let
 
 - Shows your Safari Reading List in the menu bar
 - Opens articles in your default browser when clicked
-- Add URLs to your Safari Reading List
+- Delete items from your Reading List with right-click menu
 - Displays domain names under each item
 - **Auto-refreshes every 60 seconds**
 - Manual refresh option
@@ -34,7 +34,7 @@ The app directly reads Safari's Bookmarks.plist file at `~/Library/Safari/Bookma
 
 - **Auto-refresh**: The reading list automatically updates every 60 seconds to stay in sync with Safari
 - **Manual Refresh**: Click the "Refresh" menu item to immediately update the reading list
-- **Add to Reading List**: Add new URLs to your Safari reading list using the app's "Add Current URL to Reading List" menu option
+- **Delete from Reading List**: Right-click on an item to access the delete option
 
 ## Privacy
 
