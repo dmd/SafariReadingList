@@ -20,5 +20,9 @@
     <true/>
     <key>com.apple.security.personal-information.photos-library</key>
     <true/>
+    <key>com.apple.security.temporary-exception.files.home-relative-path.read-only</key>
+    <array>
+        <string>/Library/Safari/Bookmarks.plist</string>
+    </array>
 </dict>
 </plist>
